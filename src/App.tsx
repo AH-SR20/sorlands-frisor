@@ -6,7 +6,7 @@ import herreklippImg from './assets/herreklipp.jpg'
 import dameklippImg from './assets/dameklipp.jpg'
 import barneklippImg from './assets/barneklipp.jpg'
 import skjeggBartImg from './assets/skjegg-bart.jpg'
-import dropInBackground from "./assets/drop-in-background.jpg";
+
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false)
