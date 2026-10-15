@@ -190,11 +190,11 @@ function App() {
       <h2>Åpningstider</h2>
 
       <div className="hours-list">
-        <div className="hours-row"><span>Mandag</span><span>09:00 – 20:00</span></div>
-        <div className="hours-row"><span>Tirsdag</span><span>09:00 – 20:00</span></div>
-        <div className="hours-row"><span>Onsdag</span><span>09:00 – 20:00</span></div>
-        <div className="hours-row"><span>Torsdag</span><span>09:00 – 20:00</span></div>
-        <div className="hours-row"><span>Fredag</span><span>09:00 – 20:00</span></div>
+        <div className="hours-row"><span>Mandag</span><span>10:00 – 20:00</span></div>
+        <div className="hours-row"><span>Tirsdag</span><span>10:00 – 20:00</span></div>
+        <div className="hours-row"><span>Onsdag</span><span>10:00 – 20:00</span></div>
+        <div className="hours-row"><span>Torsdag</span><span>10:00 – 20:00</span></div>
+        <div className="hours-row"><span>Fredag</span><span>10:00 – 20:00</span></div>
         <div className="hours-row"><span>Lørdag</span><span>10:00 – 18:00</span></div>
         <div className="hours-row closed"><span>Søndag</span><span>Stengt</span></div>
       </div>
